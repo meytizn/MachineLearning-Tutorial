@@ -1,0 +1,1 @@
+# pip install numpy panadas sklearn notebook matplotlib
