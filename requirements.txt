@@ -1,1 +1,3 @@
-# pip install numpy panadas sklearn notebook matplotlib
+# pip install numpy panadas scikit-learn  matplotlib 
+# pip install notebook
+#jupyter notebook
